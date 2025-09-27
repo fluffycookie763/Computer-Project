@@ -1,0 +1,21 @@
+body {
+  background-color: #fdf6f0;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: #4b3f3f;
+  margin: 0;
+  padding: 30px;
+}
+
+.name-heading {
+  font-size: 2em;
+  margin: 40px 0 20px;
+  color: #6b4c3b;
+}
+
+.portrait {
+  width: 300px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(200, 150, 150, 0.2);
+  margin-bottom: 40px;
+}
